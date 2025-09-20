@@ -29,7 +29,7 @@ export default function Media_Coverage() {
           <small class="text-muted">Sep 05, 2023</small>
           <h5 class="card-title mt-2">Innovative Solutions in Construction Chemicals by Yahska Polymers</h5>
           <p class="card-meta">by admin | 152 Comments</p>
-          <a href="#" class="read-more">READ MORE →</a>
+          <a href="/" class="read-more">READ MORE →</a>
         </div>
       </div>
     </div>
@@ -41,7 +41,7 @@ export default function Media_Coverage() {
           <small class="text-muted">Aug 28, 2023</small>
           <h5 class="card-title mt-2">Sustainable Practices Making Waves in Indian Construction</h5>
           <p class="card-meta">by admin | 20230 Comments</p>
-          <a href="#" class="read-more">READ MORE →</a>
+          <a href="/" class="read-more">READ MORE →</a>
         </div>
       </div>
     </div>
@@ -53,7 +53,7 @@ export default function Media_Coverage() {
           <small class="text-muted">Aug 15, 2023</small>
           <h5 class="card-title mt-2">Yahska Polymers Featured for Innovative Product Line</h5>
           <p class="card-meta">by admin | 20230 Comments</p>
-          <a href="#" class="read-more">READ MORE →</a>
+          <a href="/" class="read-more">READ MORE →</a>
         </div>
       </div>
     </div>

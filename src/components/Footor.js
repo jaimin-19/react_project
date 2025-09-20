@@ -70,8 +70,8 @@ function Footor() {
         <div class="footer-social">
           <a href="/"><i class="fab fa-twitter"></i></a>
           <a href="/"><i class="fab fa-facebook-f"></i></a>
-          <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
-          <a href="javascript:void(0)"><i class="fab fa-instagram"></i></a>
+          <a href="/"><i class="fab fa-linkedin-in"></i></a>
+          <a href="/"><i class="fab fa-instagram"></i></a>
         </div>
       </div>
 
@@ -81,9 +81,9 @@ function Footor() {
         <a href="/">Home</a>
         <a href="/about">About Us</a>
         <a href="/pro">Projects</a>
-        <a href="#">Products</a>
-        <a href="#">Media coverage</a>
-        <a href="#">Contact Us</a>
+        <a href="/">Products</a>
+        <a href="/">Media coverage</a>
+        <a href="/">Contact Us</a>
       </div>
 
       {/* <!-- Our Products --> */}
