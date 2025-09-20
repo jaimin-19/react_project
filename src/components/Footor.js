@@ -89,27 +89,27 @@ function Footor() {
       {/* <!-- Our Products --> */}
       <div class="col-md-3">
         <h5 class="footer-title">Our Products</h5>
-        <a href="#">Admixtures</a>
-        <a href="#">Accelerators</a>
-        <a href="#">Misc Admixtures</a>
-        <a href="#">Integral Waterproofing</a>
-        <a href="#">Curing Compound</a>
-        <a href="#">Grouts</a>
-        <a href="#">Floor Hardeners</a>
-        <a href="#">Micro Silica</a>
-        <a href="#">Structural Bonding</a>
-        <a href="#">See All Products</a>
+        <a href="/">Admixtures</a>
+        <a href="/">Accelerators</a>
+        <a href="/">Misc Admixtures</a>
+        <a href="/">Integral Waterproofing</a>
+        <a href="/">Curing Compound</a>
+        <a href="/">Grouts</a>
+        <a href="/">Floor Hardeners</a>
+        <a href="/">Micro Silica</a>
+        <a href="/">Structural Bonding</a>
+        <a href="/">See All Products</a>
       </div>
 
       {/* <!-- Our Project --> */}
       <div class="col-md-3">
         <h5 class="footer-title">Our Project</h5>
-        <a href="#">High Speed Rail</a>
-        <a href="#">Metro & Rail</a>
-        <a href="#">Roads & Highways</a>
-        <a href="#">Buildings & Factories</a>
-        <a href="#">Other Projects</a>
-        <a href="#">See All Projects</a>
+        <a href="/">High Speed Rail</a>
+        <a href="/">Metro & Rail</a>
+        <a href="/">Roads & Highways</a>
+        <a href="/">Buildings & Factories</a>
+        <a href="/">Other Projects</a>
+        <a href="/">See All Projects</a>
       </div>
     </div>
   </div>

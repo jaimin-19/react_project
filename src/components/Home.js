@@ -23,8 +23,8 @@ function Home() {
               <h5 class="text-uppercase mb-3">Welcome to Yahska Polymers Pvt Ltd</h5>
               <h1 class="display-4 fw-bold mb-4">Construction Chemicals You Trust<br/> Delivering Strength & Quality</h1>
               <div class="mt-4">
-                <a href="#" class="btn btn-outline-light btn-lg rounded-0 me-3">Contact Us</a>
-                <a href="#" class="btn btn-primary btn-lg rounded-0">Know More</a>
+                <a href="/" class="btn btn-outline-light btn-lg rounded-0 me-3">Contact Us</a>
+                <a href="/" class="btn btn-primary btn-lg rounded-0">Know More</a>
               </div>
             </div>
           </div>
@@ -39,8 +39,8 @@ function Home() {
               <h5 class="text-uppercase mb-3">Welcome to Yahska Polymers Pvt Ltd</h5>
               <h1 class="display-4 fw-bold mb-4">Construction Chemicals You Trust<br/> Delivering Strength & Quality</h1>
               <div class="mt-4">
-                <a href="#" class="btn btn-outline-light btn-lg rounded-0 me-3">Contact Us</a>
-                <a href="#" class="btn btn-primary btn-lg rounded-0" >Know More</a>
+                <a href="/" class="btn btn-outline-light btn-lg rounded-0 me-3">Contact Us</a>
+                <a href="/" class="btn btn-primary btn-lg rounded-0" >Know More</a>
               </div>
             </div>
           </div>
@@ -55,8 +55,8 @@ function Home() {
               <h5 class="text-uppercase mb-3">Welcome to Yahska Polymers Pvt Ltd</h5>
               <h1 class="display-4 fw-bold mb-4">Construction Chemicals You Trust<br/> Delivering Strength & Quality</h1>
               <div class="mt-4">
-                <a href="#" class="btn btn-outline-light btn-lg rounded-0 me-3">Contact Us</a>
-                <a href="#" class="btn btn-primary btn-lg rounded-0">Know More</a>
+                <a href="/" class="btn btn-outline-light btn-lg rounded-0 me-3">Contact Us</a>
+                <a href="/" class="btn btn-primary btn-lg rounded-0">Know More</a>
               </div>
             </div>
           </div>
