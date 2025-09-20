@@ -1,7 +1,7 @@
 import React from 'react'
 import logo from '../image/Yahskha Polymers_Logo & Symbol (3) (1) 1.png'
 
-function Navbar() {
+function Header() {
   return (
     
   <nav class="navbar navbar-expand-lg">
@@ -38,4 +38,4 @@ function Navbar() {
   )
 }
 
-export default Navbar
+export default Header

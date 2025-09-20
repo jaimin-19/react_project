@@ -1,6 +1,6 @@
 
 import './App.css';
-import Navbar from './components/Navbar';
+import Header from './components/Header';
 import Home from './components/Home';
 import About from './components/About';
 import Product from './components/Product';
@@ -14,7 +14,7 @@ import Footor from './components/Footor';
 function App() {
   return (
     <>
-    <Navbar/>
+    <Header/>
     <Home/>
     <About/>
     <Product/>
