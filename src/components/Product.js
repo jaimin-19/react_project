@@ -14,7 +14,7 @@ function product() {
         <div class="col-md-4">
           <div class="choose-card">
             <div class="choose-icon">
-              <img src={img1} alt=""/>
+              <img src={img1} alt="img1"/>
             </div>
             <h5>Expertise & Innovation</h5>
             <p>22+ years of industry experience with strong in-house R&amp;D driving advanced and sustainable solutions.</p>
@@ -23,7 +23,7 @@ function product() {
         <div class="col-md-4">
           <div class="choose-card">
             <div class="choose-icon">
-              <img src={img2} alt=""/>
+              <img src={img2} alt="img2"/>
             </div>
             <h5>Manufacturing Excellence</h5>
             <p>ISO-certified facilities with modern technology ensuring consistent quality and reliable supply nationwide.</p>
@@ -32,7 +32,7 @@ function product() {
         <div class="col-md-4">
           <div class="choose-card">
             <div class="choose-icon">
-              <img src={img3} alt=""/>
+              <img src={img3} alt="img3"/>
             </div>
             <h5>Comprehensive Solutions</h5>
             <p>Wide product portfolio including admixtures, waterproofing, sealants, repairs, and industrial flooring for every construction need.</p>

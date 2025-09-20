@@ -65,7 +65,7 @@ function Footor() {
       {/* <!-- About Us --> */}
       <div class="col-md-3 footer-about">
         <h5 class="footer-title">About Us</h5>
-          <img src={img} style={{width: "80%"}} class="mb-3"/>
+          <img src={img} style={{width: "80%"}} class="mb-3" alt='I'/>
         <p>Yahska Polymers Pvt Ltd is a leading construction chemicals manufacturer based in Ahmedabad, proudly serving the Indian construction industry with innovative and reliable solutions for over two decades.</p>
         <div class="footer-social">
           <a href="#"><i class="fab fa-twitter"></i></a>

@@ -1,7 +1,7 @@
 import React from 'react'
 import logo from '../image/Yahskha Polymers_Logo & Symbol (3) (1) 1.png'
 
-function Header() {
+function Navbar() {
   return (
     
   <nav class="navbar navbar-expand-lg">
@@ -19,7 +19,7 @@ function Header() {
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">PROJECTS</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="projects.html">Project </a></li>
+              <li><a class="dropdown-item" href="#">Project </a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
@@ -38,4 +38,4 @@ function Header() {
   )
 }
 
-export default Header
+export default Navbar

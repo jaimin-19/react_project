@@ -32,14 +32,14 @@ function About() {
                         width: "55%", 
                         height: "60%",
                         right: "50px" }}
-                        src={img2} alt=""/>
+                        src={img2} alt="imge1"/>
                     </div>
                     <div class="img2">
                         <img style={{position: "absolute", 
                         width: "55%", 
                         height: "60%",
                         top: "200px" }}
-                        src={img3}/>
+                        src={img3} alt='imge3'/>
                     </div>
                 </div>
             </div>
