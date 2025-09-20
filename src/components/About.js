@@ -23,7 +23,7 @@ function About() {
                         <li>Repair & rehabilitation products</li>
                         <li>Industrial flooring solutions</li>
                     </ul>
-                    <a href="javascript:void(0)" class="btn btn-primary">Know More</a>
+                    <a href="/" class="btn btn-primary">Know More</a>
             </div>
             <div class="col-md-6">
                 <div class="img-container">

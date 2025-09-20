@@ -68,8 +68,8 @@ function Footor() {
           <img src={img} style={{width: "80%"}} class="mb-3" alt='I'/>
         <p>Yahska Polymers Pvt Ltd is a leading construction chemicals manufacturer based in Ahmedabad, proudly serving the Indian construction industry with innovative and reliable solutions for over two decades.</p>
         <div class="footer-social">
-          <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
-          <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
+          <a href="/"><i class="fab fa-twitter"></i></a>
+          <a href="/"><i class="fab fa-facebook-f"></i></a>
           <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
           <a href="javascript:void(0)"><i class="fab fa-instagram"></i></a>
         </div>
@@ -78,9 +78,9 @@ function Footor() {
       {/* <!-- Quick Links --> */}
       <div class="col-md-3">
         <h5 class="footer-title">Quick Links</h5>
-        <a href="javascript:void(0)">Home</a>
-        <a href="#">About Us</a>
-        <a href="#">Projects</a>
+        <a href="/">Home</a>
+        <a href="/about">About Us</a>
+        <a href="/pro">Projects</a>
         <a href="#">Products</a>
         <a href="#">Media coverage</a>
         <a href="#">Contact Us</a>

@@ -19,7 +19,7 @@ function Product_section() {
             <div class="product-body">
               <h5>Admixtures</h5>
               <p>High-performance admixtures designed to improve concrete workability, strength, and durability while reducing water demand.</p>
-              <a href="javascript:void(0)" class="read-more">Read More →</a>
+              <a href="/" class="read-more">Read More →</a>
             </div>
           </div>
         </div>
@@ -30,7 +30,7 @@ function Product_section() {
             <div class="overlay-content">
               <h5>Accelerators</h5>
               <p>Special additives that speed up the setting and strength gain of concrete, ideal for fast-track construction projects.</p>
-              <a href="javascript:void(0)">Read More →</a>
+              <a href="/">Read More →</a>
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ function Product_section() {
             <div class="product-body">
               <h5>Misc Admixtures</h5>
               <p>Specialty admixtures formulated to enhance specific concrete properties and meet unique project requirements.</p>
-              <a href="javascript:void(0)" class="read-more">Read More →</a>
+              <a href="/" class="read-more">Read More →</a>
             </div>
           </div>
         </div>
